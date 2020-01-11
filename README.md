@@ -41,3 +41,6 @@ FIREFOX bottom menu:
 https://github.com/jonhoo/configs/tree/master/gui/.mozilla/firefox/dev-edition-default
 +
 https://www.userchrome.org/how-create-userchrome-css.html#aboutconfig
+
+[Destop file](firefox.destop) for create desktop entry.
+Place it into ~/.local/share/applications/
